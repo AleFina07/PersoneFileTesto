@@ -1,0 +1,3 @@
+piero;123456789;via Gemelli;Pian Camuno;
+carlo;123456789;via Bellissima;Catanzaro;
+antonio;123456789;via Magnifica;reggio calabria;
